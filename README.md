@@ -1,3 +1,6 @@
+https://piotrminkowski.wordpress.com/tag/spring-cloud/
+
+
 ##spring-boot-prototype-ansible
 
 Turning your Continuous Integration process into a Continuous Deployment Pipeline is easier than you think. Using a tool like [Ansible](http://www.ansible.com/), we can break the deployment process into simple repeatable roles that can handle extremely complex deployment scenarios. We can also integrate this deployment process with Maven to make the entire process of committing, building, testing and deploying into one streamline delivery pipeline.
